@@ -34,7 +34,7 @@ To get started with the application, you'll need to install the necessary depend
 
 ### Backend Setup:
 
-1.Eclipse
+1. Eclipse
 
 ## Configuration
 

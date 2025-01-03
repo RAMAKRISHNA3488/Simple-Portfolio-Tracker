@@ -62,7 +62,7 @@ Below is a step-by-step guide to navigating through the main features of the **P
 ##  1️⃣ **User Login Interface**
 
 <div align="center">
-  <img src=".Screenshots/Login.png" alt="Edit Functionality" width="600"/>
+  <img src="./Screenshots/Login.png" alt="Edit Functionality" width="600"/>
 </div>
 
 ---
@@ -83,7 +83,7 @@ To add a stock:
 - Click **Submit** to add the stock to your portfolio.
 
 <div align="center">
-  <img src=".Screenshots/Adding.png" alt="Add Functionality" width="600"/>
+  <img src="./Screenshots/Adding.png" alt="Add Functionality" width="600"/>
 </div>
 
 ---
@@ -93,7 +93,7 @@ To add a stock:
 - **Delete**: Remove unwanted stocks from your portfolio with a single click.
 
 <div align="center">
-  <img src=".Screenshots/Update.png" alt="Edit Functionality" width="600"/>
+  <img src="./Screenshots/Update.png" alt="Edit Functionality" width="600"/>
 </div>
 
 ---
